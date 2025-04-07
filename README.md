@@ -1,6 +1,6 @@
 # Python Developer Roadmap
 
-> Roadmap to becoming a [Python](https://www.python.org/) developer in 2022-2023:
+> Roadmap to becoming a [Python](https://www.python.org/) developer in 2025:
 Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Python developer. I made this chart as a tip for everyone who asks me, "*What should I learn next as a Python developer?*"
 
 ## Disclaimer
@@ -51,6 +51,7 @@ If you like or are using this project to learn or start your solution, please gi
 
    1. [Flask](https://flask.palletsprojects.com/en/2.0.x/)
    2. [Django](https://www.djangoproject.com/)
+   3. [FastApi](https://fastapi.tiangolo.com/)
 
 
 5. Databases
@@ -162,7 +163,6 @@ If you like or are using this project to learn or start your solution, please gi
 
 If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
 
-Idea from : [Go developer roadmap](https://github.com/Alikhll/golang-developer-roadmap)
 
 ## Contribution
 
